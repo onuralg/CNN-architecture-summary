@@ -21,3 +21,5 @@ You can find the code for my summary function and its usage on visualizing diffe
 - [ResNet50](https://github.com/onuralg/CNN-architectures/blob/master/cnn-architectures-resnet50.ipynb)
 - InceptionV3
 - InceptionResNetV2
+
+Note: It needs more development for ResNet like architectures. This method cannot handle "Add" operation effectively. 
