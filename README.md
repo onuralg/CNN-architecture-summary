@@ -5,14 +5,16 @@ I develope a new summary technique for neural network visualization. Rather than
 For example, a couple of layers of VGG16 architecture displayer by Keras' summary function:
 
 <p align="center">
-  <img width="603" height="329" src="keras-summary.png">
+  <img width="300" height="150" src="keras-summary.png">
 </p>
 
-![Keras](keras-summary.png)
+
 
 and a couple of layers of VGG16 architecture displayer by my summary function:
-![Onur](onur-summary.png)
-   
+
+<p align="center">
+  <img width="931" height="210" src="onur-summary.png">
+</p>
 
 You can find the code for my summary function and its usage on visualizing different CNN architectures:
 
