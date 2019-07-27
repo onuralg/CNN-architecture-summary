@@ -5,7 +5,7 @@ I develope a new summary technique for neural network visualization. Rather than
 For example, a couple of layers of VGG16 architecture displayer by Keras' summary function:
 
 <p align="center">
-  <img width="500" height="250" src="keras-summary.png">
+  <img width="500" height="396" src="keras-summary.png">
 </p>
 
 and a couple of layers of VGG16 architecture displayer by my summary function:
