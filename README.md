@@ -4,6 +4,10 @@ I develope a new summary technique for neural network visualization. Rather than
 
 For example, a couple of layers of VGG16 architecture displayer by Keras' summary function:
 
+<p align="center">
+  <img width="460" height="300" src="keras-summary.png">
+</p>
+
 ![Keras](keras-summary.png)
 
 and a couple of layers of VGG16 architecture displayer by my summary function:
