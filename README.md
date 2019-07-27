@@ -8,7 +8,7 @@ For example, a couple of layers of VGG16 architecture displayer by Keras' summar
   <img width="603" height="329" src="keras-summary.png">
 </p>
 
-and a couple of layers of VGG16 architecture displayer by my summary function:
+and a couple of layers of VGG16 architecture displayed by my summary function:
 
 <p align="center">
   <img width="931" height="210" src="onur-summary.png">
