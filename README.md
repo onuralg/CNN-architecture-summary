@@ -1,4 +1,4 @@
-# CNN-architectures
+# CNN-architecture-summary
 
 I develope a new summary technique for neural network visualization. Rather than Keras' summary function, my technique is much more simpler and easier to understand input and output connections. Additionally, I display the activation functions and filter dimensions in each layer.
 
