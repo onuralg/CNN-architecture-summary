@@ -4,10 +4,10 @@ I develope a new summary technique for neural network visualization. Rather than
 
 For example, a couple of layers of VGG16 architecture displayer by Keras' summary function:
 
-![Keras](keras-summary.png | width=100)
+![Keras](keras-summary.png =250x)
 
 and a couple of layers of VGG16 architecture displayer by my summary function:
-![Onur](onur-summary.png | width=100)
+![Onur](onur-summary.png =250x)
    
 
 You can find the code for my summary function and its usage on visualizing different CNN architectures:
