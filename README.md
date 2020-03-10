@@ -1,6 +1,6 @@
 # CNN-architecture-summary
 
-I develope a new summary technique for neural network visualization. Rather than Keras' summary function, my technique is much more simpler and easier to understand input and output connections. Additionally, I display the activation functions and filter dimensions in each layer.
+I developed a new summary technique for neural network visualization. Rather than Keras' summary function, my technique is much more simpler and easier to understand network structure. Input-output connections, activation layers and filter dimensions are displayed.
 
 For example, a couple of layers of VGG16 architecture displayer by Keras' summary function:
 
@@ -22,4 +22,4 @@ You can find the code for my summary function and its usage on visualizing diffe
 - InceptionV3
 - InceptionResNetV2
 
-Note: It needs more development for ResNet like architectures. This method cannot handle "Add" operation effectively. 
+Note: It needs more development for ResNet like architectures. This method cannot handle "Add" operation. 
